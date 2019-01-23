@@ -1,0 +1,8 @@
+a.bugzillaLink {
+    position: absolute;
+    top: -24px;
+    right: 0;
+    background: #ebebeb;
+    z-index: 1;
+    padding: 3px 5px;
+}
